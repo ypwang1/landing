@@ -1,0 +1,19 @@
+.banner {
+  display: flex;
+  background-image: url(/landing/images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  justify-content: center;
+}
+
+.banner h1 {
+ color:  white;
+}
+
+.banner p {
+ color: rgb(171, 169, 169);
+ font-weight: 600;
+ font-size: 1.2em;
+ margin-bottom: 50px;
+}
